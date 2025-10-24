@@ -36,7 +36,7 @@ matplotlib
 1.  Clone the repository:
     
     ```
-    git clone [https://github.com/your-username/PyTorch-Linear-DNN-Fundamentals.git](https://github.com/your-username/PyTorch-Linear-DNN-Fundamentals.git)
+    git clone https://github.com/Rahmat-ML/PyTorch-Linear-DNN-Fundamentals
     cd PyTorch-Linear-DNN-Fundamentals
     ```
     
